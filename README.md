@@ -5,6 +5,7 @@
 ## Getting started
 
 - Extract the advent of code's session cookie from your browser.
+- Install xargo-generate: `cargo install cargo-generate`
 - Create a new project using the template: `cargo generate --git https://github.com/ithinuel/yaah-template.git`.
 - Run `cargo run --release`.
 - Enjoy!
